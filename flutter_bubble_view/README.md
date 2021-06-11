@@ -1,15 +1,10 @@
-# flutter_bubble_view
+# flutter 气泡控件
+效果如如下：
+![image](https://github.com/messnoTrace/flutter-bubbleView/blob/main/flutter_bubble_view/images/1.png)
+![image](https://github.com/messnoTrace/flutter-bubbleView/blob/main/flutter_bubble_view/images/2.png)
+![image](https://github.com/messnoTrace/flutter-bubbleView/blob/main/flutter_bubble_view/images/3.png)
 
-A new Flutter project.
+提供了两种类型，一种是直接展示，一种是点击弹出，悬浮在点击控件四周：
 
-## Getting Started
-
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+具体用法在这[example](https://github.com/messnoTrace/flutter-bubbleView/blob/main/flutter_bubble_view/example/lib/main.dart)，
+暂时只是出版，还有待完善

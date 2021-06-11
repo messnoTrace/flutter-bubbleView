@@ -2,7 +2,7 @@ name: flutter_bubble_view
 description: A new Flutter project.
 version: 0.0.1
 author:
-homepage:
+homepage: https://github.com/messnoTrace/flutter-bubbleView
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
